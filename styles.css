@@ -1,0 +1,26 @@
+img {
+    width: 800px;
+}
+
+h1, h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color:gold;
+}
+
+h2 {
+    color:chocolate;
+}
+
+
+body {
+    margin: 2em auto 2em 35%;
+    background-color: beige;
+
+}
+
+p {
+    width: 800px;
+}
